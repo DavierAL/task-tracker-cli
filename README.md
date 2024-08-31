@@ -37,5 +37,4 @@ node index.js mark-in-progress <ID>
 Marcar una tarea como "completada"
 node index.js mark-done <ID>
 
-
-url: https://github.com/DavierAL/task-tracker-cli
+https://roadmap.sh/projects/task-tracker
